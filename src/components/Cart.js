@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import Product from './Product'
 
 
-/* вывод списка супергероев */
+/* вывод списка выбранных супергероев */
 
 
 const Cart  = ({ products, total, onCheckoutClicked }) => {
