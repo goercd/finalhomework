@@ -1,0 +1,125 @@
+[
+  {
+  "id": 1, 
+  "title": "Аквамен",
+  "image": "http://www.ramrus.ru/pic/dc/aquaman.jpg",
+  "inventory": 10,
+  "category": "DC"},
+
+
+  {
+    "id": 2, 
+    "title": "Бэтмен", 
+    "image": "http://www.ramrus.ru/pic/dc/batman.jpg",
+    "inventory": 10,
+    "category": "DC"},
+
+
+   {
+    "id": 3, 
+    "title": "Киборг", 
+    "image": "http://www.ramrus.ru/pic/dc/cyborg.jpg",
+    "inventory": 10,
+    "category": "DC"},
+
+    {
+     "id": 4, 
+     "title": "Флэш", 
+     "image": "http://www.ramrus.ru/pic/dc/flash.jpg",
+     "inventory": 10,
+     "category": "DC"},
+
+     {
+       "id": 5, 
+       "title": "Зелёный Фонарь", 
+       "image": "http://www.ramrus.ru/pic/dc/greenlantern.jpg",
+       "inventory": 10,
+       "category": "DC"},
+
+     {
+        "id": 6, 
+        "title": "Супергёрл", 
+        "image": "http://www.ramrus.ru/pic/dc/supergirl.jpg",
+        "inventory": 10,
+        "category": "DC"},
+
+      {
+         "id": 7, 
+         "title": "Супермен", 
+         "image": "http://www.ramrus.ru/pic/dc/superman.jpg",
+         "inventory": 10,
+         "category": "DC"},
+
+
+       {
+          "id": 8, 
+          "title": "Чудо-женщина", 
+          "image": "http://www.ramrus.ru/pic/dc/wonderwoman.jpg",
+          "inventory": 10,
+          "category": "DC"},
+
+
+
+
+       {  
+           "id": 9, 
+           "title": "Чёрная Пантера", 
+           "image": "http://www.ramrus.ru/pic/marvel/blackpanther.jpg",
+           "inventory": 20,
+           "category": "MARVEL"},
+
+       {  
+           "id": 10, 
+           "title": "Капитан Америка", 
+           "image": "http://www.ramrus.ru/pic/marvel/captainamerica.jpg",
+           "inventory": 20,
+           "category": "MARVEL"},
+
+       {  
+           "id": 11, 
+           "title": "Сорвиголова", 
+           "image": "http://www.ramrus.ru/pic/marvel/daredevil.jpg",
+           "inventory": 20,
+           "category": "MARVEL"},
+
+       {  
+            "id": 12, 
+            "title": "Доктор Стрэндж", 
+            "image": "http://www.ramrus.ru/pic/marvel/doctorstrange.jpg",
+            "inventory": 20,
+            "category": "MARVEL"},
+
+       {  
+             "id": 13, 
+             "title": "Халк", 
+             "image": "http://www.ramrus.ru/pic/marvel/hulk.jpg",
+             "inventory": 20,
+             "category": "MARVEL"},
+
+         {  
+              "id": 14, 
+              "title": "Железнй Человек", 
+              "image": "http://www.ramrus.ru/pic/marvel/ironman.jpg",
+              "inventory": 20,
+              "category": "MARVEL"},
+
+         {  
+               "id": 15, 
+               "title": "Человек-паук", 
+               "image": "http://www.ramrus.ru/pic/marvel/spiderman.jpg",
+               "inventory": 20,
+               "category": "MARVEL"},
+
+          {  
+                "id": 16, 
+                "title": "Тор", 
+                "image": "http://www.ramrus.ru/pic/marvel/thor.jpg",
+                "inventory": 20,
+                "category": "MARVEL"}
+      
+
+]
+
+
+
+
